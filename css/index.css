@@ -3267,6 +3267,7 @@ blockquote footer cite:before {
 }
 #page-header.full_page {
   height: 100vh;
+  background-image: url("/themes/butterfly/source/img/full_page.jpg");
   background-attachment: fixed;
 }
 #page-header.full_page #site-info {
